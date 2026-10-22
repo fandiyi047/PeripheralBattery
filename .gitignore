@@ -1,0 +1,11 @@
+.DS_Store
+*.app/
+*.dSYM/
+.env
+.env.*
+*.p12
+*.pfx
+*.pem
+*.key
+*.keychain-db
+keychain-password
